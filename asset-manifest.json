@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LetSuspense/static/css/main.66774f8f.chunk.css",
+    "main.js": "/LetSuspense/static/js/main.fc99070f.chunk.js",
+    "main.js.map": "/LetSuspense/static/js/main.fc99070f.chunk.js.map",
+    "runtime-main.js": "/LetSuspense/static/js/runtime-main.3f1072f6.js",
+    "runtime-main.js.map": "/LetSuspense/static/js/runtime-main.3f1072f6.js.map",
+    "static/js/2.f865038b.chunk.js": "/LetSuspense/static/js/2.f865038b.chunk.js",
+    "static/js/2.f865038b.chunk.js.map": "/LetSuspense/static/js/2.f865038b.chunk.js.map",
+    "index.html": "/LetSuspense/index.html",
+    "precache-manifest.0134c8a0f2e26ddc08e500532e34f1b1.js": "/LetSuspense/precache-manifest.0134c8a0f2e26ddc08e500532e34f1b1.js",
+    "service-worker.js": "/LetSuspense/service-worker.js",
+    "static/css/main.66774f8f.chunk.css.map": "/LetSuspense/static/css/main.66774f8f.chunk.css.map",
+    "static/js/2.f865038b.chunk.js.LICENSE.txt": "/LetSuspense/static/js/2.f865038b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1072f6.js",
+    "static/js/2.f865038b.chunk.js",
+    "static/css/main.66774f8f.chunk.css",
+    "static/js/main.fc99070f.chunk.js"
+  ]
+}
